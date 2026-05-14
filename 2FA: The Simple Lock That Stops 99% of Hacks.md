@@ -1,4 +1,4 @@
-# 🔐 2FA: The Simple Lock That Stops 99% of Hacks
+### 🔐 2FA: The Simple Lock That Stops 99% of Hacks
 
 <p align="center">
   <sub>Why One Password Is No Longer Enough</sub>
@@ -28,11 +28,11 @@ Even if someone steals your password, they still cannot enter without passing th
 
 That second gate is called:
 
-# 🛡️ Two-Factor Authentication (2FA)
+### 🛡️ Two-Factor Authentication (2FA)
 
 ---
 
-# 🤔 What is 2FA?
+### 🤔 What is 2FA?
 
 Two-Factor Authentication adds an extra step when logging into your account.
 
@@ -55,7 +55,7 @@ This means:
 
 ---
 
-# 🏠 Think of It Like a House
+### 🏠 Think of It Like a House
 
 | Security Layer | Real Life        | Online   |
 | -------------- | ---------------- | -------- |
@@ -72,13 +72,13 @@ With 2FA:
 
 ---
 
-# 📱 Types of 2FA
+### 📱 Types of 2FA
 
 There are different ways to receive your second verification code.
 
 ---
 
-## 📩 Option 1: SMS Codes
+### 📩 Option 1: SMS Codes
 
 This is the most common method.
 
@@ -116,7 +116,7 @@ That means SMS is helpful…
 
 ---
 
-# 📲 Option 2: Authenticator Apps (Better Security)
+### 📲 Option 2: Authenticator Apps (Better Security)
 
 Apps like:
 
@@ -130,7 +130,7 @@ No SMS needed.
 
 ---
 
-## ✅ Why Authenticator Apps Are Better
+### ✅ Why Authenticator Apps Are Better
 
 They are:
 
@@ -151,9 +151,9 @@ Even if someone knows your password, they still need the current code from your 
 
 ---
 
-# ⚙️ How to Set Up Google Authenticator
+### ⚙️ How to Set Up Google Authenticator
 
-## 📥 Step 1: Download the App
+### 📥 Step 1: Download the App
 
 Install:
 
@@ -162,7 +162,7 @@ Install:
 
 ---
 
-# 🔐 Step 2: Enable 2FA on Your Account
+### 🔐 Step 2: Enable 2FA on Your Account
 
 Go to the security settings of the account you want to protect.
 
@@ -182,7 +182,7 @@ Look for:
 
 ---
 
-## 🟢 Example: Google Account
+### 🟢 Example: Google Account
 
 Open:
 
@@ -209,7 +209,7 @@ Then:
 
 ---
 
-# 📷 Step 3: Link the App
+### 📷 Step 3: Link the App
 
 Once enabled, the website will display a QR code.
 
@@ -232,7 +232,7 @@ The app will instantly start generating login codes.
 
 ---
 
-# 🔄 Step 4: Verify It Works
+### 🔄 Step 4: Verify It Works
 
 The website will ask for a code from the app.
 
@@ -250,7 +250,7 @@ Your account now has an extra layer of protection.
 
 ---
 
-# 🛡️ Why 2FA Matters So Much
+### 🛡️ Why 2FA Matters So Much
 
 Without 2FA:
 
@@ -275,7 +275,7 @@ That extra step blocks the majority of account takeover attacks.
 
 ---
 
-# 🎯 Final Thoughts
+### 🎯 Final Thoughts
 
 Passwords alone are no longer enough.
 
