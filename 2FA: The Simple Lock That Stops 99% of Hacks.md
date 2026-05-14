@@ -192,7 +192,7 @@ Then:
 
 1. Select **2-Step Verification**
 <p align="center">
-  <img src="blogs/images/auth7.png" width="250" height="250"/>
+  <img src="blogs/blob/main/images/auth1.png" width="250" height="250"/>
   </p>
 2. Turn it on
 <p align="center">
