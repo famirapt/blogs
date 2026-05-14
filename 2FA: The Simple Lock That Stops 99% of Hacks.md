@@ -190,21 +190,21 @@ Open:
 
 Then:
 
-1. Select **2-Step Verification**
+1. Select 2-Step Verification
 <p align="center">
-  <img src="https://raw.githubusercontent.com/famirapt/blogs/main/images/auth7.png" width="250" height="250"/>
+  <img src="https://raw.githubusercontent.com/famirapt/blogs/main/images/auth7.png" width="250"/>
 </p>
 2. Turn it on
 <p align="center">
-  <img src="https://raw.githubusercontent.com/famirapt/blogs/main/images/auth5.png" width="250" height="250"/>
+  <img src="https://raw.githubusercontent.com/famirapt/blogs/main/images/auth5.png" width="250"/>
 </p>
-3. Scroll to **Authenticator App**
+3. Scroll to Authenticator App
 <p align="center">
-  <img src="https://raw.githubusercontent.com/famirapt/blogs/main/images/auth1.png" width="250" height="250"/>
+  <img src="https://raw.githubusercontent.com/famirapt/blogs/main/images/auth1.png" width="250"/>
 </p>
-4. Click **Set Up**
+4. Click Set Up
 <p align="center">
-  <img src="https://raw.githubusercontent.com/famirapt/blogs/main/images/auth2.png" width="250" height="250"/>
+  <img src="https://raw.githubusercontent.com/famirapt/blogs/main/images/auth2.png" width="250"/>
 </p>
 
 ---
@@ -225,7 +225,7 @@ Scan a QR code
 
 4. Point your camera at the QR code on your computer
 <p align="center">
-  <img src="https://raw.githubusercontent.com/famirapt/blogs/main/images/auth3.png" width="250" height="250"/>
+  <img src="https://raw.githubusercontent.com/famirapt/blogs/main/images/auth3.png" width="250"/>
 </p>
 
 The app will instantly start generating login codes.
@@ -238,11 +238,11 @@ The website will ask for a code from the app.
 
 Enter the current 6-digit number shown in the authenticator app.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/famirapt/blogs/main/images/auth4.png" width="250" height="250"/>
+  <img src="https://raw.githubusercontent.com/famirapt/blogs/main/images/auth4.png" width="250"/>
 </p>
 Done ✅
 <p align="center">
-  <img src="https://raw.githubusercontent.com/famirapt/blogs/main/images/auth6.png" width="250" height="250"/>
+  <img src="https://raw.githubusercontent.com/famirapt/blogs/main/images/auth6.png" width="250"/>
 </p>
 
 Your account now has an extra layer of protection.
