@@ -264,7 +264,7 @@ That extra step blocks the majority of account takeover attacks.
 
 ---
 
-# ⚡ Quick Security Checklist
+### ⚡ Quick Security Checklist
 
 | Protection Step              | Recommended           |
 | ---------------------------- | --------------------- |
