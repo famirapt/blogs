@@ -6,7 +6,7 @@
 
 ---
 
-## 📖 Introduction
+### 📖 Introduction
 
 Imagine your house has:
 
