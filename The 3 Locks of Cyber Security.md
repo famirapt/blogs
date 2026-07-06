@@ -1,12 +1,8 @@
-# 🔐 The 3 Locks of Cyber Security
-
-<p align="center">
-  <sub>Understanding the CIA Triad with a Simple Banking App Example</sub>
-</p>
+## 🔐 The 3 Locks of Cyber Security
 
 ---
 
-## 📖 Introduction
+### 📖 Introduction
 
 Have you ever wondered what cybersecurity experts are actually trying to protect?
 
@@ -17,7 +13,7 @@ To make it simple, let’s use something everyone understands: **your banking ap
 
 ---
 
-# 🛡️ The CIA Triad
+### 🛡️ The CIA Triad
 
 | Principle          | Meaning                      | Simple Example                        |
 | ------------------ | ---------------------------- | ------------------------------------- |
@@ -27,7 +23,7 @@ To make it simple, let’s use something everyone understands: **your banking ap
 
 ---
 
-## 🔒 1. Confidentiality — *The Secret*
+### 🔒 1. Confidentiality — *The Secret*
 
 Imagine checking your bank balance.
 
@@ -52,7 +48,7 @@ to make sure only authorized people can access sensitive information.
 
 ---
 
-## ✅ 2. Integrity — *The Truth*
+### ✅ 2. Integrity — *The Truth*
 
 Let’s say you have **₦50,000** in your account.
 
@@ -90,7 +86,7 @@ The goal is to keep data **truthful and reliable**.
 
 ---
 
-## ⚡ 3. Availability — *The Access*
+### ⚡ 3. Availability — *The Access*
 
 Picture this:
 
@@ -115,7 +111,7 @@ Security teams work to ensure:
 
 ---
 
-# 🎯 Conclusion
+### 🎯 Conclusion
 
 The next time you hear about a **security breach**, ask yourself:
 
@@ -126,7 +122,3 @@ The next time you hear about a **security breach**, ask yourself:
 Understanding these three principles is understanding the **heart of cybersecurity**.
 
 ---
-
-<p align="center">
-  <sub>Made with ❤️ for cybersecurity beginners</sub>
-</p>
