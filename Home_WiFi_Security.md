@@ -1,10 +1,10 @@
-# 🏠 Is Your Home Wi-Fi Truly Safe?
+### 🏠 Is Your Home Wi-Fi Truly Safe?
 
 *A Simple Guide to Securing Your Router*
 
 ---
 
-## 📖 Introduction
+#### 📖 Introduction
 
 Most of us in Nigeria use routers from providers like **MTN**, **Airtel**, or **Spectranet** — often built by companies like **Huawei** or **ZTE**.
 
@@ -18,9 +18,9 @@ Here's how to secure your home Wi-Fi in **4 simple steps**.
 
 ---
 
-## 🔐 1. Change the "Admin" Password
+#### 🔐 1. Change the "Admin" Password
 
-### 🚪 The Secret Back Door
+##### 🚪 The Secret Back Door
 
 Every router has a settings page. You can usually open it by typing one of these into your browser:
 
@@ -34,7 +34,7 @@ or
 192.168.1.1
 ```
 
-### ⚠️ The Problem
+##### ⚠️ The Problem
 
 Most routers come with default login details like:
 
@@ -50,7 +50,7 @@ If someone connected to your network knows this, they could:
 - Monitor your traffic
 - Lock you out completely
 
-### ✅ The Fix
+##### ✅ The Fix
 
 Go to:
 
@@ -66,7 +66,7 @@ Then:
 
 ---
 
-## 👻 2. Why Hiding Your SSID Isn't Enough
+#### 👻 2. Why Hiding Your SSID Isn't Enough
 
 Some people hide their Wi-Fi name (SSID) so it won't appear when others scan for networks.
 
@@ -76,13 +76,13 @@ The idea is:
 
 Unfortunately…
 
-### ❌ The Truth
+##### ❌ The Truth
 
 Hiding your SSID is like parking your car in a dark alley. It may be harder to notice, but it's still there.
 
 Hackers can use free tools to detect hidden networks within seconds.
 
-### ✅ The Real Fix
+##### ✅ The Real Fix
 
 Instead of hiding your network:
 
@@ -100,13 +100,13 @@ or
 password123
 ```
 
-### 🔒 Why Encryption Matters
+##### 🔒 Why Encryption Matters
 
 Encryption scrambles your internet traffic so attackers cannot easily read your data — even if they find your Wi-Fi network.
 
 ---
 
-## 📡 3. Turn Off WPS
+#### 📡 3. Turn Off WPS
 
 Have you noticed a small button on your router labeled:
 
@@ -118,11 +118,11 @@ WPS was designed to make connecting devices easier without typing the Wi-Fi pass
 
 Sounds helpful… but it's also one of the weakest security features on many routers.
 
-### ⚠️ The Problem
+##### ⚠️ The Problem
 
 Hackers can use automated tools to guess the WPS PIN surprisingly fast. Once they get it, they may gain access to your network.
 
-### ✅ The Fix
+##### ✅ The Fix
 
 Open your router settings and:
 
@@ -133,7 +133,7 @@ Typing your password manually is much safer.
 
 ---
 
-## 🔄 4. Update Your Router Firmware
+#### 🔄 4. Update Your Router Firmware
 
 Your router software is called **firmware**.
 
@@ -144,7 +144,7 @@ Just like:
 
 …your router also needs security updates.
 
-### ⚠️ Why Updates Matter
+##### ⚠️ Why Updates Matter
 
 Manufacturers release updates to:
 
@@ -154,7 +154,7 @@ Manufacturers release updates to:
 
 Using outdated firmware can leave your network exposed.
 
-### ✅ The Fix
+##### ✅ The Fix
 
 In your router settings, look for:
 
@@ -166,7 +166,7 @@ The process usually takes less than **2 minutes**.
 
 ---
 
-## 🛡️ Quick Security Checklist
+#### 🛡️ Quick Security Checklist
 
 | Security Step              | Status |
 | --------------------------- | ------ |
@@ -177,7 +177,7 @@ The process usually takes less than **2 minutes**.
 
 ---
 
-## 🎯 Final Thoughts
+#### 🎯 Final Thoughts
 
 A strong Wi-Fi password alone is **not enough**.
 
