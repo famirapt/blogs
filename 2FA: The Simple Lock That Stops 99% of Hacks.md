@@ -1,9 +1,5 @@
 ### 🔐 2FA: The Simple Lock That Stops 99% of Hacks
 
-<p align="center">
-  <sub>Why One Password Is No Longer Enough</sub>
-</p>
-
 ---
 
 ### 📖 Introduction
@@ -291,9 +287,4 @@ Think of it this way:
 > 🚪 2FA guards the second gate.
 
 Use both.
-
 ---
-
-<p align="center">
-  <sub>Stay protected online 🛡️</sub>
-</p>
