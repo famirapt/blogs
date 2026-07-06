@@ -1,10 +1,10 @@
-# 🔑 Why "One Password" Is a Big Mistake
+### 🔑 Why "One Password" Is a Big Mistake
 
 *How Reusing Passwords Puts All Your Accounts at Risk*
 
 ---
 
-## 📖 Introduction
+#### 📖 Introduction
 
 Many people use the same password for:
 
@@ -30,11 +30,11 @@ That is exactly what happens online when you reuse passwords.
 
 ---
 
-## 🤖 What Is Credential Stuffing?
+#### 🤖 What Is Credential Stuffing?
 
 The name sounds technical, but the idea is simple. It's the attack that happens when a hacker takes a stolen password from one place and tries it everywhere else.
 
-### 1️⃣ A Website Gets Hacked
+##### 1️⃣ A Website Gets Hacked
 
 Maybe it's:
 
@@ -47,7 +47,7 @@ The attackers steal:
 - Your email
 - Your password
 
-### 2️⃣ Hackers Use Automated Tools
+##### 2️⃣ Hackers Use Automated Tools
 
 They use a "robot" to test the same login details on:
 
@@ -56,7 +56,7 @@ They use a "robot" to test the same login details on:
 - Instagram
 - Banking apps
 
-### 3️⃣ Reused Password = Easy Access
+##### 3️⃣ Reused Password = Easy Access
 
 If you used the same password everywhere:
 
@@ -70,7 +70,7 @@ Credential Stuffing
 
 ---
 
-## 🛡️ The Real Solution: Password Managers
+### 🛡️ The Real Solution: Password Managers
 
 A **password manager** is like a secure digital vault. It helps by:
 
@@ -78,7 +78,7 @@ A **password manager** is like a secure digital vault. It helps by:
 - Saving them securely
 - Filling them in automatically when needed
 
-### 🔐 Example of a Strong Password
+##### 🔐 Example of a Strong Password
 
 ```text
 jK9!vP2#mQ
@@ -88,7 +88,7 @@ Hard for humans to remember… but easy for a password manager.
 
 ---
 
-## ✅ Why Password Managers Are Powerful
+### ✅ Why Password Managers Are Powerful
 
 Instead of using one password everywhere:
 
@@ -98,7 +98,7 @@ Instead of using one password everywhere:
 
 ---
 
-## 📱 Good News: You Already Have One
+#### 📱 Good News: You Already Have One
 
 If you use:
 
@@ -109,7 +109,7 @@ If you use:
 
 ---
 
-## ⚡ Pro Tips
+#### ⚡ Pro Tips
 
 - ✔️ Use a different password for every account
 - ✔️ Turn on Two-Factor Authentication (2FA)
@@ -128,7 +128,7 @@ password
 
 ---
 
-## 🎯 Final Thoughts
+#### 🎯 Final Thoughts
 
 Cybersecurity is not just about hackers and computers. Sometimes the biggest risk is:
 
