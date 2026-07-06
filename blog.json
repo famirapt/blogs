@@ -1,0 +1,10 @@
+[
+  {
+    "id": "wifi-security",
+    "title": "🏠 Is Your Home Wi-Fi Truly Safe?",
+    "date": "July 6, 2026",
+    "readTime": "4 min read",
+    "excerpt": "Most of us change our Wi-Fi password, but your router may still have a default admin back door open. Secure your home network in 4 simple steps.",
+    "content": "# 🏠 Is Your Home Wi-Fi Truly Safe?\n\n<sub>A Simple Guide to Securing Your Router</sub>\n\n---\n\n## 📖 Introduction\n\nMost of us use routers from providers like **MTN**, **Airtel**, or **Spectranet**.\n\nUsually, we change the Wi-Fi password so neighbors cannot use our data, but there's another problem:\n\n> 🚪 Your router may still have a \"back door\" open.\n\nHere is how to secure your home Wi-Fi in **4 simple steps**.\n\n---\n\n# 🔐 1. Change the \"Admin\" Password\n\n## 🚪 The Secret Back Door\n\nEvery router has a settings page. Type one of these into your browser:\n\n* **192.168.8.1**\n* **192.168.1.1**\n\n### ⚠️ The Problem\n\nMost routers come with default login details like:\n* **Username:** admin\n* **Password:** admin\n\nIf someone connects to your Wi-Fi, they can access this page and change your settings."
+  }
+]
