@@ -1,12 +1,8 @@
-# 🎣 Don’t Fall for the Trap: How to Spot a Fake Email
-
-<p align="center">
-  <sub>A Simple Guide to Identifying Phishing Scams</sub>
-</p>
+## 🎣 Don’t Fall for the Trap: How to Spot a Fake Email
 
 ---
 
-## 📖 Introduction
+### 📖 Introduction
 
 In Nigeria, we see them every day:
 
@@ -30,7 +26,7 @@ Here’s how to spot these scams like a pro.
 
 ---
 
-# 🚩 Red Flag 1: Scary or Urgent Language
+### 🚩 Red Flag 1: Scary or Urgent Language
 
 Scammers want you to panic.
 
@@ -40,16 +36,14 @@ You may see messages like:
 Your account will be DELETED in 2 hours!
 Click here NOW!
 ```
-
 or
 
 ```text id="l0a5pw"
 Immediate action required to avoid suspension.
 ```
-
 ---
 
-## ⚠️ Why This Is Suspicious
+### ⚠️ Why This Is Suspicious
 
 Real banks and government agencies:
 
@@ -73,29 +67,27 @@ Never click links in panic.
 
 ---
 
-# 📧 Red Flag 2: The Sender’s Address
+### 📧 Red Flag 2: The Sender’s Address
 
 Always inspect the **actual email address** — not just the display name.
 
 ---
 
-## ✅ Real Example
+### ✅ Real Example
 
 ```text id="s9k3nx"
 info@cbn.gov.ng
 ```
-
 ---
 
-## ❌ Fake Example
+### ❌ Fake Example
 
 ```text id="h7p4ez"
 cbngrant-office247@gmail.com
 ```
-
 ---
 
-## ⚠️ Why This Matters
+### ⚠️ Why This Matters
 
 Government offices and banks:
 
@@ -106,7 +98,7 @@ If the address looks strange, it probably is.
 
 ---
 
-# 👤 Red Flag 3: Generic Greetings
+### 👤 Red Flag 3: Generic Greetings
 
 Scammers send the same message to thousands or millions of people.
 
@@ -115,7 +107,6 @@ That’s why they often begin with:
 ```text id="u5m1cv"
 Dear Customer
 ```
-
 or
 
 ```text id="g2z9rl"
@@ -126,7 +117,7 @@ instead of your real name.
 
 ---
 
-## ⚠️ Be Careful
+### ⚠️ Be Careful
 
 Legitimate services usually know:
 
@@ -138,7 +129,7 @@ Generic greetings are a major warning sign.
 
 ---
 
-# 🔗 Red Flag 4: Suspicious Links
+### 🔗 Red Flag 4: Suspicious Links
 
 Before clicking any link:
 
@@ -149,7 +140,7 @@ This reveals the real destination.
 
 ---
 
-## ⚠️ Dangerous Example
+### ⚠️ Dangerous Example
 
 A fake link may look like:
 
@@ -161,7 +152,7 @@ instead of the real bank website.
 
 ---
 
-## ✅ Safe Practice
+### ✅ Safe Practice
 
 Only trust:
 
@@ -179,7 +170,7 @@ When unsure:
 
 ---
 
-# 🛡️ Quick Anti-Phishing Checklist
+### 🛡️ Quick Anti-Phishing Checklist
 
 | Check                     | Safe? |
 | ------------------------- | ----- |
@@ -190,7 +181,7 @@ When unsure:
 
 ---
 
-# 🎯 Final Thoughts
+### 🎯 Final Thoughts
 
 Phishing attacks work because they target:
 
@@ -205,7 +196,3 @@ Remember:
 > 🔐 A few seconds of caution can save your money and identity.
 
 ---
-
-<p align="center">
-  <sub>Think before you click 🛡️</sub>
-</p>
