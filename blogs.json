@@ -8,11 +8,37 @@
     "contentPath": "Home_WiFi_Security.md"
   },
   {
-    "id": "password safety",
+    "id": "password-safety",
     "title": "Building a save password",
     "excerpt": "Learn how to configure a safe password for safely practice cybersecurity concepts.",
     "date": "May 28, 2026",
     "readTime": "5 min read",
     "contentPath": "Password_Safety.md"
-  }
+  },
+   {
+    "id": "2FA",
+    "title": "2FA: The Simple Lock That Stops 99% of Hacks",
+    "excerpt": "Passwords alone are no longer enough to keep attackers at bay. Two-Factor Authentication (2FA) adds a vital second layer of defense, ensuring that stolen credentials aren't enough to grant unauthorized access.",
+    "date": "May 04, 2026",
+    "readTime": "8 min read",
+    "contentPath": "2FA: The Simple Lock That Stops 99% of Hacks.md"
+  },
+  {
+    "id": "phishing",
+    "title": "Phishing-Guide",
+    "excerpt": "Phishing attacks are designed to steal your credentials, but they don't have to lead to a full account takeover.",
+    "date": "May 28, 2026",
+    "readTime": "5 min read",
+    "contentPath": "Phishing_Guide.md"
+  },
+  {
+    "id": "3-Locks",
+    "title": "Cybersecurity-locks",
+    "excerpt": "Phishing attacks are designed to steal your credentials, but they don't have to lead to a full account takeover.",
+    "date": "june 28, 2026",
+    "readTime": "5 min read",
+    "contentPath": "The 3 Locks of Cyber Security.md"
+  },
 ]
+
+
