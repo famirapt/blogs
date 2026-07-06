@@ -52,7 +52,6 @@ Your router software is called **firmware**. Just like Android and iPhones get u
 
 ### 🛡️ Quick Security Checklist
 | Security Step | Status |
-|---|---|
 | 🔑 Changed Admin Password | ✅ |
 | 🔒 Enabled WPA2/WPA3 | ✅ |
 | ❌ Disabled WPS | ✅ |
