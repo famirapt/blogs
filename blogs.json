@@ -5,7 +5,7 @@
     "excerpt": "Most of us change our Wi-Fi passwords, but forget our router's secret back door. Follow these 4 simple steps to secure your MTN, Airtel, or Spectranet router.",
     "date": "July 6, 2026",
     "readTime": "4 min read",
-    "contentPath": "blogs/blob/main/Home_WiFi_Security.md"
+    "contentPath": "Home_WiFi_Security.md"
   },
   {
     "id": "password safety",
@@ -13,6 +13,6 @@
     "excerpt": "Learn how to configure a safe password for safely practice cybersecurity concepts.",
     "date": "May 28, 2026",
     "readTime": "5 min read",
-    "contentPath": "blogs/Password_Safety.md"
+    "contentPath": "Password_Safety.md"
   }
 ]
